@@ -1,0 +1,4 @@
+cron:
+- description: Export logs
+  url: /admin/cron/log_offload/export
+  schedule: every 1 hours
