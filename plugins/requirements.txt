@@ -1,2 +1,1 @@
-GoogleAppEngineCloudStorageClient
 https://github.com/our-city-app/log-offload/archive/master.zip
