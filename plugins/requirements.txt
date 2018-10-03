@@ -1,2 +1,2 @@
 GoogleAppEngineCloudStorageClient
-https://github.com/rogerthat-platform/log-offload/archive/master.zip
+https://github.com/our-city-app/log-offload/archive/master.zip
